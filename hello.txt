@@ -2,3 +2,4 @@ Hello World
 nama : ridho
 Alamat : Jakarta
 Jenis KElamin: Laki laki
+Pekerjaan: Pekerja lepas
